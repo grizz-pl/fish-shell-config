@@ -1,0 +1,4 @@
+*.back
+fish_history
+fishd.*
+generated_completions/

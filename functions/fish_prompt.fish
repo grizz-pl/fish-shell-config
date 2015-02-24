@@ -1,3 +1,4 @@
+# prompt is a merge of standard fish's prompts Nim and Informative Git Prompt
 set -g __fish_git_prompt_show_informative_status 1 
 set -g __fish_git_prompt_hide_untrackedfiles 1 
 set -g __fish_git_prompt_color_branch magenta bold 
